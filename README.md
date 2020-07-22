@@ -22,3 +22,6 @@ If you're correct, all the squares will turn the correct color.
 * CSS
 * JavaScript
 
+## Future Development
+
+* Rebuild with React
