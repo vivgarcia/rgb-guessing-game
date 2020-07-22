@@ -4,7 +4,7 @@
 
 ## How to Play
 
-![]()
+![](rgb-guess-ss.png)
 
 There are two different levels: Easy and Hard.
 
